@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+🔭 I’m currently working on the ✨ _special_ ✨ repository for my GitHub profile. 
+
+🌱 I’m currently learning about conditions and loops. 
+
+📫 How to reach me: email, please. 
+
+😄 Pronouns: she/her/hers 
+
+⚡ Fun fact: proud cat mom of two black cats, Dai (boy) and Yuri (girl). 
 <!--
 **CSAMU4/csamu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
