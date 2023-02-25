@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on the ✨ _special_ ✨ repository for my GitHub profile. 
+🔭 I’m currently working on the pushing coding assignments to Git Hub :'). 
 
 🌱 I’m currently learning about MySQL. 
 
