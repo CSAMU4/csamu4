@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on the ✨ _special_ ✨ repository for my GitHub profile. 
 
-🌱 I’m currently learning about conditions and loops. 
+🌱 I’m currently learning about MySQL. 
 
 📫 How to reach me: email, please. 
 
