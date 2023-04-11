@@ -1,14 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
-🔭 I’m currently working on the pushing coding assignments to Git Hub :'). 
+🌱 I am Candace. My pronouns are: she/her/hers - nice to meet you. :)
 
-🌱 I’m currently learning about SpringBoot. 
+🧠 I'm learning back end developement. Currently, I'm learning Spring Boot to create Java applications. 
 
-📫 How to reach me: email, please. 
+🥗 My background is in dietetics and nutrition, and I specialized in women, infant and children health. 
 
-😄 Pronouns: she/her/hers 
+📫 Reach me via LinkedIn: (https://www.linkedin.com/in/CSAMU4/) 
 
-⚡ Fun fact: proud cat mom of two black cats, Dai (boy) and Yuri (girl). 
+⚡ Fun fact(s): proud cat mom, I enjoys cooking, love camping/traveling with my boyfriend, and like designing gaming clothes. 
+
 <!--
 **CSAMU4/csamu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
