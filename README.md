@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on the pushing coding assignments to Git Hub :'). 
 
-🌱 I’m currently learning about MySQL. 
+🌱 I’m currently learning about SpringBoot. 
 
 📫 How to reach me: email, please. 
 
