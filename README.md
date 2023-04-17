@@ -8,7 +8,7 @@
 
 📫 Reach me via LinkedIn: (https://www.linkedin.com/in/CSAMU4/) 
 
-⚡ Fun fact(s): proud cat mom, I enjoys cooking, love camping/traveling with my boyfriend, and like designing gaming clothes. 
+⚡ Fun fact(s): proud cat mom, I enjoy cooking, love camping/traveling with my boyfriend, and like designing gaming clothes. 
 
 <!--
 **CSAMU4/csamu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
